@@ -176,8 +176,6 @@ index a76112d6cd..859e6039e7 100644
 +#endif
  
  /*--------------------
-  *
-@@ -801,6 +811,15 @@ InitFileAccess(void)
  
  	/* register proc-exit hook to ensure temp files are dropped at exit */
  	on_proc_exit(AtProcExit_Files, 0);
