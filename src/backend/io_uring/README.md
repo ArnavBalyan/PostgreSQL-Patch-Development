@@ -1,1 +1,1 @@
-Development for patch to add io_uring support to postgreSQL.
+Patch to add io_uring support to postgreSQL.
